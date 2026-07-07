@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Blocker</string>
+    <string name="accessibility_service_description">Lets App Blocker detect when a blocked app is opened so it can show the block screen during your scheduled hours.</string>
+</resources>
